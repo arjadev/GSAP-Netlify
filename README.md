@@ -1,6 +1,6 @@
 # GSAP Animation Showcase
 
-![GSAP Animation Demo](public/thumb.png)
+![GSAP Animation Demo](thumb.png)
 
 ## Overview
 This project showcases stunning animations created using GSAP (GreenSock Animation Platform) with modern web technologies. It demonstrates interactive examples and code snippets to help developers understand and implement powerful animations.
